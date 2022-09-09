@@ -1,0 +1,12 @@
+Git commands 
+
+1. git init
+2. git add .	
+3. git add (file name)
+4. git status
+5.git checkout -b (branch name)
+6. git Commit -m "meassage"
+7. git push origin (branch name)
+8. git pull
+9. merge
+
